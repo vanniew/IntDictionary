@@ -52,8 +52,3 @@ def update(id, title, author, year, isbn):
 
 
 connect()
-# insert("Outlander", "Diana Gabaldon", 1980, 9999999)
-update(4,"The moon", "John", 1980, 5555555)
-print(view())
-delete(2)
-print(view())
